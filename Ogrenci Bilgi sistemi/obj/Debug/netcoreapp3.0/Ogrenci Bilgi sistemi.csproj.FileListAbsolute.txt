@@ -1,0 +1,44 @@
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.exe
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.deps.json
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.json
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.dev.json
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.csprojAssemblyReference.cache
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfoInputs.cache
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfo.cs
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\anilo\Source\Repos\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.exe
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.deps.json
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.json
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.dev.json
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.csprojAssemblyReference.cache
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfoInputs.cache
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfo.cs
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\anilo\Desktop\Ogrenci Bilgi sistemi\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.exe
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.deps.json
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.json
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.dev.json
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.csprojAssemblyReference.cache
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\ADmin\Desktop\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.exe
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.deps.json
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.json
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.runtimeconfig.dev.json
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\bin\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.csprojAssemblyReference.cache
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.dll
+C:\Users\ADmin\Desktop\anıl programlar\1\Ogrenci Bilgi sistemi\obj\Debug\netcoreapp3.0\Ogrenci Bilgi sistemi.pdb
